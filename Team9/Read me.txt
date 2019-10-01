@@ -1,0 +1,2 @@
+write_do_it is our goal 1 : writing the word 'DO IT'on a piece of paper
+Visual.m is our goal 2: drawing a square around a duck detected by computer vision
